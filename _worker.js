@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "gretongers.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "wadidaw"; // Ganti dengan nama workers kalian
+const serviceName = "wadidadaw"; // Ganti dengan nama workers kalian
 const apiKey = "4e844c9117332cd039b22179adfc81d3239f1"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "sukabumiisback@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
